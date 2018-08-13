@@ -1,3 +1,6 @@
+# View project
+https://test.teatlt.ru/angular6/(https://test.teatlt.ru/angular6/)
+
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
